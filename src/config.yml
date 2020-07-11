@@ -1,0 +1,4 @@
+Regions:
+  example:
+    blocks: COAL_ORE,IRON_ORE,GOLD_ORE
+    chances: 60,25,15
